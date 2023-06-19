@@ -1,0 +1,42 @@
+* {
+    margin: 0px auto;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+h3 {
+    margin-left: 100px;
+}
+
+#navbar {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#wrapper {
+    width: 800px;
+    display: flex;
+}
+
+#register{
+    flex: 2;
+    margin-right: 40px;
+    padding: 20px;
+}
+
+#login {
+    flex: 1.5;
+    padding: 20px;
+    /* margin-left: 20px; */
+}
+
+p {
+    color: red;
+    font-size: 14px;
+}
+
+input[type="submit"] {
+    margin-top: 15px;
+}
